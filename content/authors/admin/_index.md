@@ -1,41 +1,43 @@
 ---
-# Display name
-title: Alice Wu (吳恩達)
+# 显示名称
+title: MiaoXiaodong
 
-# Is this the primary user of the site?
+# 这是网站的主要用户吗?
 superuser: true
 
-# Role/position
+# 角色/位置
 role: ''
 
-# Status emoji
+# 状态 emoji
 status:
-  icon: ☕️
+  icon: 🐱
 
-# Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+# 组织/关系
+organizations:
+- name: 腾讯
+  url: "https://baidu.com"
 
-# Short bio (displayed in user profile at end of posts)
+# 简短的个人介绍(显示在帖子结尾的用户配置文件中)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+# 技能
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+# 教育经历
+education:
+ courses:
+ - course: PhD in Artificial Intelligence
+   institution: Stanford University
+   year: 2012
+ - course: MEng in Artificial Intelligence
+   institution: Massachusetts Institute of Technology
+   year: 2009
+ - course: BSc in Artificial Intelligence
+   institution: Massachusetts Institute of Technology
+   year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,8 +68,11 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+介绍1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+介绍2
+
+介绍3
+
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

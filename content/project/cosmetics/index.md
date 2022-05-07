@@ -1,6 +1,6 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: 项目2
+summary: 简介2
 tags:
   - NLP
 date: 2022-01-01
