@@ -23,7 +23,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Build Hugo
-        uses: lowply/build-hugo@v0.92.1
+        uses: jakejarvis/hugo-build-action@master
+        with:
+          args: --minify --buildDrafts
 
      # Deploy
       - name: Deploy
