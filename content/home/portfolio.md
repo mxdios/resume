@@ -26,14 +26,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: 全部
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: 独立作品
+      tag: DL
+    - name: 公司产品
+      tag: GS
+    - name: 合作项目
+      tag: HZ
 
 design:
   columns: '1'
