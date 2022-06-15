@@ -14,30 +14,26 @@ status:
 
 # 组织/关系
 organizations:
-- name: 腾讯
-  url: "https://baidu.com"
+- name: INSPIRY
+  url: "https://inspiry.cn"
 
 # 简短的个人介绍(显示在帖子结尾的用户配置文件中)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # 技能
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - 移动端/前端研发
+# - 产品规划/团队管理
 
 # 教育经历
-education:
- courses:
- - course: PhD in Artificial Intelligence
-   institution: Stanford University
-   year: 2012
- - course: MEng in Artificial Intelligence
-   institution: Massachusetts Institute of Technology
-   year: 2009
- - course: BSc in Artificial Intelligence
-   institution: Massachusetts Institute of Technology
-   year: 2008
+# education:
+#  courses:
+#  - course: 汉语言文学
+#    institution: 北京语言大学
+#    year: 2014
+#  - course: 软件工程
+#    institution: 烟台职业学院
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,15 +43,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mxdios
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/wowchemy
+  # - icon: instagram
+  #   icon_pack: fab
+  #   link: https://instagram.com/geocushen
 # Uncomment below for Github link
 #
 # Link to a PDF of your resume/CV from the About widget.
@@ -68,11 +64,10 @@ social:
 #email: ""
 ---
 
-介绍1
+男，90后，居住北京。专业：软件工程，2014年毕业，全职码农。目前职于INSPIRY，任职前端Leader，iOS高级，前端/移动端技术负责人。
 
-介绍2
+具备多年iOS开发经验，开发过20多款上架应用。曾独立设计开发过几款个人iOS/macOS应用，稳居App Store效率排行榜。写过微信/支付宝小程序、跨平台应用、网站/平台前端。
 
-介绍3
+技术栈：iOS/macOS：Swift、OC；移动端/跨平台：小程序、Flutter、uni-app，前端：Vue、js等
 
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->

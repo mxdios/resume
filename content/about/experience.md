@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: 工作经验
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: 前端组Leader
+    company: INSPIRY
+    company_url: 'https://inspiry.cn'
+    company_logo: inspiryicon
+    location: 北京
+    date_start: '2015-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        基础研发部 前端组Leader
+        * 前端/移动端技术负责人
+        * iOS应用/SDK开发
+        * 前端/小程序开发
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: iOS工程师
+    company: 六行普惠
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: lhphicon
+    location: 北京
+    date_start: '2015-06-01'
+    date_end: '2015-10-01'
+    description: |2-
+      研发部 iOS工程师
+      * 移动端技术负责人
+      * iOS应用开发
+      
+  - title: iOS工程师
+    company: 待着网
+    company_url: ''
+    company_logo: daizheicon
+    location: 北京
+    date_start: '2014-08-01'
+    date_end: '2015-06-01'
+    description: |2-
+      研发部 iOS工程师
+      * iOS应用开发
 
 design:
   columns: '1'
