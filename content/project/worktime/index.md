@@ -1,8 +1,8 @@
 ---
-title: mSocket
-summary: 【macOS】 Socket调试工具，支持大文件传输
+title: 排班
+summary: 【iOS】以日历为基础，记录上班时间的应用
 tags:
   - DL
 date: 2022-01-01
-external_link: https://apps.apple.com/cn/app/id1576144037?mt=12
+external_link: https://itunes.apple.com/cn/app/id1221228242?mt=8
 ---

@@ -18,7 +18,7 @@ organizations:
   url: "https://markmiao.com"
 
 # 简短的个人介绍(显示在帖子结尾的用户配置文件中)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我是MiaoXiaodong，喜欢Apple软件生态和软件产品设计开发
 
 # 兴趣爱好
 # interests:
