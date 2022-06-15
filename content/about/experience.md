@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 工作经验
+title: 工作经历
 subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: '2006.01'
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.

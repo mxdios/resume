@@ -14,23 +14,23 @@ status:
 
 # 组织/关系
 organizations:
-- name: INSPIRY
-  url: "https://inspiry.cn"
+- name: markmiao.com
+  url: "https://markmiao.com"
 
 # 简短的个人介绍(显示在帖子结尾的用户配置文件中)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# 技能
+# 兴趣爱好
 # interests:
-# - 移动端/前端研发
-# - 产品规划/团队管理
-
+# - 软件产品设计开发
+# - Apple软件生态
+# - 互联网资讯
 # 教育经历
 # education:
 #  courses:
 #  - course: 汉语言文学
 #    institution: 北京语言大学
-#    year: 2014
+#    year: 2015
 #  - course: 软件工程
 #    institution: 烟台职业学院
 #    year: 2013

@@ -9,7 +9,7 @@ appearance:
   theme_day: custom
   theme_night: custom
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -51,7 +51,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2006.01'
   time_format: '3:04 PM'
 
 # Site features
