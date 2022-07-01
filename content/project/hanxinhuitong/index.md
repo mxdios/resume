@@ -1,8 +1,8 @@
 ---
 title: 汉信二维码
-summary: 【iOS】汉信二维码生码解码
+summary: 汉信码生码解码
 tags:
-  - GS
-date: 2022-01-01
+  - 公司产品
+date: 2016-03-01
 external_link: 
 ---

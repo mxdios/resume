@@ -29,11 +29,11 @@ content:
     - name: 全部
       tag: '*'
     - name: 独立作品
-      tag: DL
+      tag: 独立作品
     - name: 公司产品
-      tag: GS
+      tag: 公司产品
     - name: 合作项目
-      tag: HZ
+      tag: 合作项目
 
 design:
   columns: '1'

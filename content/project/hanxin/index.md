@@ -1,8 +1,8 @@
 ---
 title: 汉信汇通
-summary: 【iOS】汉信汇通app
+summary: 汉信码溯源应用，商户端/客户端
 tags:
-  - GS
-date: 2022-01-01
+  - 公司产品
+date: 2015-11-01
 external_link: 
 ---
