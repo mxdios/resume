@@ -1,6 +1,6 @@
 ---
 title: 速记
-summary: 【macOS】 在工具栏快速记录一段文字的应用
+summary:  在工具栏快速记录一段文字的应用
 tags:
   - 独立作品
 date: 2022-01-01

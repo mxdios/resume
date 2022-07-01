@@ -1,6 +1,6 @@
 ---
 title: INSPOS闪票
-summary: 【iOS】管理意锐小白盒的智能助手应用
+summary: 管理意锐小白盒的智能助手应用
 tags:
   - 公司产品
 date: 2022-01-01

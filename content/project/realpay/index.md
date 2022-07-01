@@ -1,6 +1,6 @@
 ---
 title: Real Pay
-summary: 【iOS】汉信二维码支付溯源app
+summary: 汉信二维码支付溯源app
 tags:
   - 公司产品
 date: 2022-01-01

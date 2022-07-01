@@ -1,6 +1,6 @@
 ---
 title: INSMO
-summary: 【iOS】AIoT智能设备管控
+summary: AIoT智能设备管控
 tags:
   - 公司产品
 date: 2022-01-01

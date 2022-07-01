@@ -1,6 +1,6 @@
 ---
 title: InsCounter
-summary: 【iOS】InsCounter enables you to check and review your transactions anywhere
+summary: InsCounter enables you to check and review your transactions anywhere
 tags:
   - 公司产品
 date: 2022-01-01

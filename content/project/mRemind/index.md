@@ -1,6 +1,6 @@
 ---
 title: mRemind
-summary: 【macOS】专为 macOS 设计的待办提醒应用
+summary: 专为 macOS 设计的待办提醒应用
 tags:
   - 独立作品
 date: 2022-01-01
