@@ -16,15 +16,15 @@ feature:
   - icon: swift
     icon_pack: custom
     name: Swift
-    description: 90%
+    description: 85%
   - icon: apple
     icon_pack: custom
     name: Objective-C
-    description: 90%
+    description: 80%
   - icon: mini
     icon_pack: custom
     name: 小程序
-    description: 80%
+    description: 75%
   - icon: uniapp
     icon_pack: custom
     name: uni-app
@@ -32,63 +32,67 @@ feature:
   - icon: flutter
     icon_pack: custom
     name: Flutter
-    description: 70%
+    description: 40%
   - icon: vue
     icon_pack: custom
     name: Vue
-    description: 70%
+    description: 50%
   - icon: js
     icon_pack: custom
     name: JavaScript
-    description: 70%
+    description: 60%
   - icon: nginx
     icon_pack: custom
     name: Nginx
     description: 40%
+  - icon: mysql
+    icon_pack: custom
+    name: MySQL
+    description: 50%
+  - icon: wordpress
+    icon_pack: custom
+    name: Wordpress
+    description: 70%
   - icon: xcode
     icon_pack: custom
     name: Xcode
-    description: 90%
-  - icon: org-x
+    description: 85%
+  - icon: vscode
     icon_pack: custom
-    name: Visual Studio Code
+    name: VSCode
     description: 70%
-  - icon: org-x
+  - icon: hbuilderx
     icon_pack: custom
     name: HBuilder X
     description: 70%
-  - icon: org-x
+  - icon: postman
     icon_pack: custom
     name: Postman
-    description: 70%
-  - icon: org-x
+    description: 80%
+  - icon: sqlworkbench
     icon_pack: custom
     name: MySQLWorkbench
-    description: 40%
-  - icon: org-x
+    description: 50%
+  - icon: axurerp
     icon_pack: custom
     name: Axure RP
-    description: 70%
-  - icon: org-x
+    description: 80%
+  - icon: confluence
     icon_pack: custom
     name: Confluence
-    description: 90%
-  - icon: org-x
+    description: 80%
+  - icon: jira
     icon_pack: custom
     name: Jira
-    description: 90%
+    description: 80%
   - icon: git
     icon_pack: custom
     name: Git
-    description: 80%
+    description: 85%
   - icon: jenkins
     icon_pack: custom
     name: Jenkins
     description: 50%
-  - icon: mysql
-    icon_pack: custom
-    name: MySQL
-    description: 60%
 
 
 ---

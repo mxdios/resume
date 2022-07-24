@@ -66,8 +66,8 @@ social:
 
 男，90后，居住北京。专业：软件工程，2014年毕业，全职码农。目前职于INSPIRY，任职前端Leader，iOS高级，前端/移动端技术负责人。
 
-具备多年iOS开发经验，开发过20多款上架应用。曾独立设计开发过几款个人iOS/macOS应用，稳居App Store效率排行榜。写过微信/支付宝小程序、跨平台应用、网站/平台前端。
+具备多年iOS开发经验，开发并上架过20多款应用。曾独立设计开发iOS/macOS应用，稳居App Store效率排行榜。写过微信/支付宝小程序、跨平台应用、网站/平台前端。熟悉Wordpress建站，各大博客框架，了解后端技术栈。
 
-技术栈：iOS/macOS：Swift、OC；移动端/跨平台：小程序、Flutter、uni-app，前端：Vue、js等
+技术栈：iOS/macOS：Swift、OC；移动端/跨平台：小程序、Flutter、uni-app，前端：Vue、js、html、css等
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
