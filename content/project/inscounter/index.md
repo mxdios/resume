@@ -1,6 +1,6 @@
 ---
 title: InsCounter
-summary: InsCounter enables you to check and review your transactions anywhere
+summary: 海外站点商户查账、对账工具
 tags:
   - 公司产品
 date: 2019-12-01
