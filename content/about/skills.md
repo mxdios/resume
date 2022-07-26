@@ -53,6 +53,14 @@ feature:
     icon_pack: custom
     name: Wordpress
     description: 70%
+  - icon: git
+    icon_pack: custom
+    name: Git
+    description: 85%
+  - icon: jenkins
+    icon_pack: custom
+    name: Jenkins
+    description: 50%
   - icon: xcode
     icon_pack: custom
     name: Xcode
@@ -77,6 +85,10 @@ feature:
     icon_pack: custom
     name: Axure RP
     description: 80%
+  - icon: ps
+    icon_pack: custom
+    name: Photoshop
+    description: 60%
   - icon: confluence
     icon_pack: custom
     name: Confluence
@@ -85,14 +97,4 @@ feature:
     icon_pack: custom
     name: Jira
     description: 80%
-  - icon: git
-    icon_pack: custom
-    name: Git
-    description: 85%
-  - icon: jenkins
-    icon_pack: custom
-    name: Jenkins
-    description: 50%
-
-
 ---
