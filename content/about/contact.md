@@ -27,13 +27,13 @@ content:
 # Contact details (edit or remove options as required)
   
   email: i@markmiao.com
-  # address:
-  #   street: 昌平区
-  #   city: 北京
-  #   region: CA
-  #   postcode: '94305'
-  #   country: United States
-  #   country_code: US
+  address:
+    # street: 西环路
+    # city: 昌平
+    region: 北京
+    # postcode: '102200'
+    # country: 中国
+    # country_code: CN
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
