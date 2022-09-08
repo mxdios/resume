@@ -32,7 +32,7 @@ content:
       tag: 独立作品
     - name: 公司产品(16)
       tag: 公司产品
-    - name: 合作项目(8)
+    - name: 合作项目(6)
       tag: 合作项目
 
 design:
