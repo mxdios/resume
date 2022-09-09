@@ -26,7 +26,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: 全部(28)
+    - name: 全部(26)
       tag: '*'
     - name: 独立作品(4)
       tag: 独立作品
