@@ -16,31 +16,39 @@ feature:
   - icon: swift
     icon_pack: custom
     name: Swift
-    description: 85%
+    description: 90%
   - icon: apple
     icon_pack: custom
     name: Objective-C
-    description: 80%
+    description: 90%
   - icon: mini
     icon_pack: custom
     name: 小程序
-    description: 75%
+    description: 80%
   - icon: uniapp
     icon_pack: custom
     name: uni-app
-    description: 70%
+    description: 80%
   - icon: flutter
     icon_pack: custom
     name: Flutter
-    description: 40%
+    description: 50%
   - icon: vue
     icon_pack: custom
     name: Vue
-    description: 50%
+    description: 60%
   - icon: js
     icon_pack: custom
     name: JavaScript
     description: 60%
+  - icon: php
+    icon_pack: custom
+    name: php
+    description: 40%
+  - icon: golang
+    icon_pack: custom
+    name: golang
+    description: 40%
   - icon: nginx
     icon_pack: custom
     name: Nginx
@@ -48,7 +56,7 @@ feature:
   - icon: mysql
     icon_pack: custom
     name: MySQL
-    description: 50%
+    description: 60%
   - icon: wordpress
     icon_pack: custom
     name: Wordpress
@@ -56,7 +64,11 @@ feature:
   - icon: git
     icon_pack: custom
     name: Git
-    description: 85%
+    description: 90%
+  - icon: docker
+    icon_pack: custom
+    name: docker
+    description: 40%
   - icon: jenkins
     icon_pack: custom
     name: Jenkins
@@ -80,11 +92,11 @@ feature:
   - icon: sqlworkbench
     icon_pack: custom
     name: MySQLWorkbench
-    description: 50%
+    description: 60%
   - icon: axurerp
     icon_pack: custom
     name: Axure RP
-    description: 80%
+    description: 90%
   - icon: ps
     icon_pack: custom
     name: Photoshop

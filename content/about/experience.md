@@ -32,8 +32,9 @@ experience:
     description: |2-
         基础研发部 前端组Leader
         * 前端/移动端技术负责人
-        * iOS应用/SDK开发
-        * 前端/小程序开发
+        * iOS应用/SDK开发/物联网
+        * 小程序/前端/网站开发
+        * PHP开发
 
   - title: iOS工程师
     company: 六行普惠
