@@ -22,13 +22,23 @@ date_format: '2006.01'
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 高级研发工程师
+    company: Baidu
+    company_url: 'https://baidu.com'
+    company_logo: baidu
+    location: 北京
+    date_start: '2023-08-28'
+    date_end: ''
+    description: |2-
+        RD
+
   - title: 前端组Leader
     company: INSPIRY
     company_url: 'https://inspiry.cn'
     company_logo: inspiryicon
     location: 北京
     date_start: '2015-10-01'
-    date_end: ''
+    date_end: '2023-08-21'
     description: |2-
         基础研发部 前端组Leader
         * 前端/移动端技术负责人
