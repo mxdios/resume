@@ -18,9 +18,6 @@ jobs:
         with:
           args: --minify --buildDrafts   # 或者指定版本，比如 '0.134.2'
 
-      - name: Build site
-        run: hugo --minify
-
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
