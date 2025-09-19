@@ -11,15 +11,12 @@ jobs:
 
     steps:
       - name: Checkout source
-        uses: actions/checkout@v4
-        with:
-          submodules: true   # 如果你用 submodule 引入 Hugo 主题
-          fetch-depth: 0
+        uses: actions/checkout@main
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: jakejarvis/hugo-build-action@master
         with:
-          hugo-version: 'latest'   # 或者指定版本，比如 '0.134.2'
+          args: --minify --buildDrafts   # 或者指定版本，比如 '0.134.2'
 
       - name: Build site
         run: hugo --minify
