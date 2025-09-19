@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>公司产品 | MiaoXiaodong</title><link>https://resume.markmiao.com/tag/%E5%85%AC%E5%8F%B8%E4%BA%A7%E5%93%81/</link><atom:link href="https://resume.markmiao.com/tag/%E5%85%AC%E5%8F%B8%E4%BA%A7%E5%93%81/index.xml" rel="self" type="application/rss+xml"/><description>公司产品</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><image><url>https://resume.markmiao.com/media/icon_hu52230cb916ff2b5056ec4818011a6f73_4780_512x512_fill_lanczos_center_3.png</url><title>公司产品</title><link>https://resume.markmiao.com/tag/%E5%85%AC%E5%8F%B8%E4%BA%A7%E5%93%81/</link></image><item><title>INSMO</title><link>https://resume.markmiao.com/project/insmo/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/insmo/</guid><description/></item><item><title>ins自販機</title><link>https://resume.markmiao.com/project/ins/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/ins/</guid><description/></item><item><title>工时统计系统</title><link>https://resume.markmiao.com/project/workhours/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/workhours/</guid><description/></item><item><title>公司官网</title><link>https://resume.markmiao.com/project/website/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/website/</guid><description/></item><item><title>Real Pay</title><link>https://resume.markmiao.com/project/realpay/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/realpay/</guid><description>&lt;p>汉信汇通app的升级版，以汉信码为基础，对商品进行追踪溯源。&lt;/p></description></item><item><title>查账</title><link>https://resume.markmiao.com/project/paipai/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/paipai/</guid><description/></item><item><title>InsCounter</title><link>https://resume.markmiao.com/project/inscounter/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/inscounter/</guid><description/></item><item><title>INSPOS</title><link>https://resume.markmiao.com/project/insposold/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/insposold/</guid><description>&lt;p>是一款使用uni-app开发的跨平台应用，一套代码多端运行，编译成iOS app、android app、微信小程序。&lt;/p>
+&lt;p>&lt;a href="https://zh.uniapp.dcloud.io/" target="_blank" rel="noopener">uni-app&lt;/a>是一款国内跨平台框架，基于vue实现，代码结构高度类似小程序，使用vue.js开发。可将一套代码编译成各种小程序、android/iOS app、web页面。&lt;/p>
+&lt;p>uni-app的页面视图由webview渲染，整体性能相比较原生有很大差距，复杂功能受限于框架无法实现。优点是学习成本低，跨平台，国内社区相对活跃。&lt;/p>
+&lt;p>UI组件和API方面官方提供了很多开放库，并有官方维护的&lt;a href="https://ext.dcloud.net.cn/" target="_blank" rel="noopener">插件市场&lt;/a>，简单的app或小程序可使用uni-app完成快速搭建。&lt;/p></description></item><item><title>INSPOS闪票</title><link>https://resume.markmiao.com/project/inspos/</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/inspos/</guid><description/></item><item><title>海报大师专业版</title><link>https://resume.markmiao.com/project/haibo/</link><pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/haibo/</guid><description/></item><item><title>加油吧</title><link>https://resume.markmiao.com/project/jiayouba/</link><pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/jiayouba/</guid><description>&lt;p>是一款与天津中石油公司合作的加油app。&lt;/p>
+&lt;p>使用OC开发，涉及技术：微信/支付宝/银联支付，百度地图定位/导航，PDF文档解析，车牌号自定义键盘等。&lt;/p></description></item><item><title>汉信二维码</title><link>https://resume.markmiao.com/project/hanxin/</link><pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/hanxin/</guid><description>&lt;p>中国国标二维码——汉信码，生码解码工具app。&lt;/p>
+&lt;p>汉信码是一种矩阵式二维码，相比普通二维码QRCode，有更大的中文字符容量，更强的容错能力。&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="汉信码" srcset="
+/project/hanxin/hxcode_huab6309d32b140addfcd37f7508bfdd90_2677_b145877af85308a194827c187d10a22f.webp 400w,
+/project/hanxin/hxcode_huab6309d32b140addfcd37f7508bfdd90_2677_747dbb78e55324a3373bb4289932d08e.webp 760w,
+/project/hanxin/hxcode_huab6309d32b140addfcd37f7508bfdd90_2677_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://resume.markmiao.com/project/hanxin/hxcode_huab6309d32b140addfcd37f7508bfdd90_2677_b145877af85308a194827c187d10a22f.webp"
+width="165"
+height="165"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>汉信汇通</title><link>https://resume.markmiao.com/project/hanxinhuitong/</link><pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/hanxinhuitong/</guid><description>&lt;p>以汉信码为基础，对商品进行追踪溯源app，分为商户端和客户端两个应用。&lt;/p></description></item><item><title>女王驾到</title><link>https://resume.markmiao.com/project/nwjd/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/nwjd/</guid><description>&lt;p>一款OC实现的电商类app，实现线上和线下支付交易。使用iBeacon技术，完成室内定位，进入信号范围自动推送服务通知。&lt;/p></description></item><item><title>待着</title><link>https://resume.markmiao.com/project/daizhe/</link><pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/daizhe/</guid><description>&lt;h1 id="heading">&lt;/h1>
+&lt;p>待着是一个兴趣社区，为你提供遍布全球的精彩人生体验，但需要你是平凡生活里不甘平庸的异类。&lt;/p>
+&lt;p>Slogan —— 待着，只有少数人才懂。待着，生活的另一种可能。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="app" srcset="
+/project/daizhe/IMG_0361_hu91452cfe78d74f01206171421d5ce0e9_431516_5f04743453266709295c1534ceab6efa.webp 400w,
+/project/daizhe/IMG_0361_hu91452cfe78d74f01206171421d5ce0e9_431516_55b8f258cc47397b368dbc7d98133d1b.webp 760w,
+/project/daizhe/IMG_0361_hu91452cfe78d74f01206171421d5ce0e9_431516_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://resume.markmiao.com/project/daizhe/IMG_0361_hu91452cfe78d74f01206171421d5ce0e9_431516_5f04743453266709295c1534ceab6efa.webp"
+width="428"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/th>
+&lt;th>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="app" srcset="
+/project/daizhe/IMG_0360_hua80820cc3c3d44d3281adea640e0fcff_206356_ad3dcb11c8aee59be7a029b88e47c949.webp 400w,
+/project/daizhe/IMG_0360_hua80820cc3c3d44d3281adea640e0fcff_206356_35ac097fec992ff966b91906974bc3ba.webp 760w,
+/project/daizhe/IMG_0360_hua80820cc3c3d44d3281adea640e0fcff_206356_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://resume.markmiao.com/project/daizhe/IMG_0360_hua80820cc3c3d44d3281adea640e0fcff_206356_ad3dcb11c8aee59be7a029b88e47c949.webp"
+width="428"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;/table>
+&lt;ul>
+&lt;li>开发语言： OC&lt;/li>
+&lt;li>开源库：AFN，SDWebImage，MJRefresh，MBProgressHUD，MJExtension&lt;/li>
+&lt;li>第三方库：微信/支付宝支付，QQ/微信/微博/豆瓣第三方登录，百度地图，友盟统计&lt;/li>
+&lt;li>其他：纯代码，自定义Tabbar，自定义UI，工具类，分类，block，delegate，通知&lt;/li>
+&lt;/ul></description></item><item><title>钱呗多</title><link>https://resume.markmiao.com/project/qianbeiduo/</link><pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate><guid>https://resume.markmiao.com/project/qianbeiduo/</guid><description>&lt;p>一款p2p理财应用，对接银联支付系统。&lt;/p></description></item></channel></rss>

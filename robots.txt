@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://resume.markmiao.com/sitemap.xml
