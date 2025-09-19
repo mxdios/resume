@@ -68,6 +68,6 @@ social:
 
 具备多年iOS开发经验，参与大型APP研发，并上架过30多款应用。曾独立设计开发iOS/macOS应用，稳居App Store效率排行榜。写过微信/支付宝小程序、跨平台应用、网站/平台前端、数据大屏。熟悉Wordpress建站，各大博客框架，了解后端php/go等技术栈。参与软件/硬件产品设计，物联网产品设计开发。担任产品技术负责人，为多个项目提供解决方案（产品设计+研发服务）。*——“专业的全干工程师”*。
 
-技术栈：iOS/macOS：Swift、OC、C；移动端/跨平台：小程序、Flutter、uni-app，前端：Vue、js、html、css，后端：php、go等
+技术栈：iOS/macOS：Swift、OC、C；移动端/跨平台：Android、Flutter、小程序、uni-app，前端：Vue、js、html、css，后端：php、go等
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->

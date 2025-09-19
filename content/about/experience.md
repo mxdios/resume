@@ -24,13 +24,13 @@ date_format: '2006.01'
 experience:
   - title: 高级研发工程师
     company: Baidu
-    company_url: 'https://baidu.com'
+    company_url: 'https://lbsyun.baidu.com/'
     company_logo: baidu
     location: 北京
     date_start: '2023-08-28'
     date_end: ''
     description: |2-
-        RD
+        百度地图开放平台 高级研发工程师
 
   - title: 前端组Leader
     company: INSPIRY
