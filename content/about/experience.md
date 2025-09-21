@@ -23,14 +23,17 @@ date_format: '2006.01'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 高级研发工程师
-    company: Baidu
+    company: BaiduMap
     company_url: 'https://lbsyun.baidu.com/'
-    company_logo: baidu
+    company_logo: baidumap
     location: 北京
     date_start: '2023-08-28'
     date_end: ''
     description: |2-
         百度地图开放平台 高级研发工程师
+        * 室内定位导航
+        * 客户端组件研发
+        * SDK研发
 
   - title: 前端组Leader
     company: INSPIRY
