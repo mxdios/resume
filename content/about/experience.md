@@ -31,9 +31,9 @@ experience:
     date_end: ''
     description: |2-
         百度地图开放平台 高级研发工程师
-        * 室内定位导航
-        * 客户端组件研发
-        * SDK研发
+        * 开放平台SDK研发
+        * 室内定位导航技术
+        * 地图客户端研发
 
   - title: 前端组Leader
     company: INSPIRY
